@@ -7,4 +7,9 @@ This bot takes in a json file and parses it to create a gradient jpeg file (1920
 ##################
 ------TODO-------
 ##################
--
+
+
+- import json file
+- analyze json and catch data
+- use data to create image
+- save image to defined resolution
