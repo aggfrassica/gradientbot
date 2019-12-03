@@ -8,6 +8,7 @@ This bot takes in a json file and parses it to create a gradient jpeg file (1920
 ------TODO-------
 ##################
 
+important, convert porject to C
 
 - import json file
 - analyze json and catch data
